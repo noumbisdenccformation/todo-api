@@ -25,5 +25,5 @@ Dans le fichier `application.properties` :
 ```properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/todo_db
 spring.datasource.username=noumbis
-spring.datasource.password=
+spring.datasource.password=1234
 spring.jpa.hibernate.ddl-auto=update
